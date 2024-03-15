@@ -266,6 +266,7 @@ widgets:
         # Names and URLs of the sites
         links:
             发送邮件: mailto:93@anson.fun
+            联系我: mailto:anson@anson.fun
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
