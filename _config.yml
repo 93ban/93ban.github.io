@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: nine
+title: 九年级三班
 subtitle: ''
 description: ''
 keywords:
-author: nine
+author: 三班全体
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://93ban.github.io
+url: https://ognn.xyz
 permalink: :title/
 permalink_defaults:
 pretty_urls:
